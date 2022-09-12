@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning CSS, Javascript (vanilla only) and currently Rust lang...
 
-- 👀 I’m listening to mathcore, King Crimson discography...
-
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=devgcjune8.devgcjune8)
 
